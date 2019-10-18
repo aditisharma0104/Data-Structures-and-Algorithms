@@ -1,3 +1,5 @@
+// Program to sort a giiven array using bubble sort
+
 #include<iostream>
 using namespace std;
 
